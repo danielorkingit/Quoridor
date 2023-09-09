@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Write\ a\ description\ of\ class\ Game\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Game()
+comment2.params=input
+comment2.target=void\ makeMove(java.lang.String)
+comment3.params=
+comment3.target=void\ naechsterSpieler()
+comment4.params=
+comment4.target=void\ startGame()
+comment5.params=
+comment5.target=void\ initFeld()
+numComments=6

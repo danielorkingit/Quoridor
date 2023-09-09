@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SpielGUI
+comment1.params=spielFeld
+comment1.target=SpielGUI(Feld[][])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=i\ j
+comment3.target=java.awt.Color\ getSpaceColor(int,\ int)
+comment4.params=i\ j
+comment4.target=java.awt.Color\ getSquareColor(int,\ int)
+numComments=5
